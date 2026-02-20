@@ -25,6 +25,7 @@ Follow these steps to run the application on your local machine or deploy it liv
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/vedantparkhe777-alt/University_Admission_Bot.git
+cd University_Admission_Bot
 ```
 
 ### 2. Install Dependencies
