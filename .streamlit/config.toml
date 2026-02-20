@@ -1,0 +1,13 @@
+[theme]
+# A lively, energetic Coral Red
+primaryColor = "#FF5F6D"
+
+# A clean, pure white background so the colors pop
+backgroundColor = "#f9d3db"
+
+# A very soft, airy blue-grey for the sidebar
+secondaryBackgroundColor = "#e0fbcc"
+
+# A soft navy for high readability without being harshly black
+textColor = "#2B2B52"
+font = "sans serif"
